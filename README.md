@@ -8,11 +8,14 @@
    ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-brightgreen?style=for-the-badge&logo=popos&logoColor=blue&color=black)   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evandsoncesar&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-   
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=evandsoncesar&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evandsoncesar&layout=compact&bg_color=000&border_color=DAA520&title_color=EB0000&text_color=DAB420)
 
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandsoncesar&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+   [![GitHub Streak](https://streak-stats.demolab.com?user=evandsoncesar&theme=dark&hide_border=true&locale=pt_BR&mode=weekly&fire=EB0000&ring=EB0000&currStreakNum=DAB420&sideLabels=EB0000&currStreakLabel=EB0000&sideNums=DAB420&dates=DAB420&stroke=EB0000&bg_color=EB0000)](https://git.io/streak-stats)
+
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evandsoncesar&theme=dark&border_color=30A3DC&show_icons=true&icon_color=DAB400&title_color=EB0000&text_color=DAB420&locale=pt-br)
+
+   
+   
    
 
 
