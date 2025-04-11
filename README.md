@@ -1,6 +1,11 @@
 # Olá, Meu nome é Evandson César!
    Sou Estudante de Engenharia da Computação na Escola Politécnica de Pernambuco(POLI) - Universidade de Pernambuco(UPE).
 
+   <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaJuliaGermano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="145" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MariaJuliaGermano&locale=en&mode=weekly&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandsoncesar/)
 
    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)	![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
